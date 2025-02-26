@@ -41,12 +41,24 @@ Encourages contributions.
 Improves project visibility and documentation.
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
-Feature	             Public Repository	                       Private Repository
-Visibility	         Accessible by anyone	                     Restricted to authorized users
-Collaboration	       Open for external contributions	         Limited to team members
-Security	           Less control over access	                 More secure and controlled
-Best Use Cases	     Open-source projects	                     Confidential or business projects
+Feature	           	                      
+Visibility	                             
+Collaboration	      	        
+Security	           	                
+Best Use Cases	                         
 
+  Public Repository
+Accessible by anyone	
+Open for external contributions
+Less control over access
+Open-source projects	
+
+   Private Repository
+ Restricted to authorized users
+ Limited to team members
+ More secure and controlled
+ Confidential or business projects
+ 
 Advantages & Disadvantages:
 
 Public repos encourage community contributions but may expose sensitive data.
@@ -100,10 +112,22 @@ Helps track contributions.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
-Feature	                              Forking	                                                        Cloning
-Definition	                         Copies a repository into your GitHub account	                    Creates a local copy on your computer
-Ownership                          	 New repository under your account	                              No ownership transfer
-Use Case	                           Contributing to open-source projects	                            Working on a local copy of a repository
+Feature	                             
+Definition	                                            
+Ownership                          	                               
+Use Case	                                                     
+
+ Forking	                                                        
+Copies a repository into your GitHub account	
+New repository under your account	
+Contributing to open-source projects	
+
+
+ Cloning
+Creates a local copy on your computer
+No ownership transfer
+Working on a local copy of a repository
+
 When to Fork?
 
 When you want to contribute to an open-source project.
