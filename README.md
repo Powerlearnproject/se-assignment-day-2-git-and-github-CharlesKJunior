@@ -47,13 +47,13 @@ Collaboration
 Security	           	                
 Best Use Cases	                         
 
-  Public Repository
+Public Repository
 Accessible by anyone	
 Open for external contributions
 Less control over access
 Open-source projects	
 
-   Private Repository
+ Private Repository
  Restricted to authorized users
  Limited to team members
  More secure and controlled
@@ -117,13 +117,13 @@ Definition
 Ownership                          	                               
 Use Case	                                                     
 
- Forking	                                                        
+Forking	                                                        
 Copies a repository into your GitHub account	
 New repository under your account	
 Contributing to open-source projects	
 
 
- Cloning
+Cloning
 Creates a local copy on your computer
 No ownership transfer
 Working on a local copy of a repository
